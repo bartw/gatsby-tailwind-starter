@@ -26,6 +26,7 @@ git commit -m "initial commit"
 
 - Install and start your website.
 
+```shell
 nvm use
 npm install
 npm start
