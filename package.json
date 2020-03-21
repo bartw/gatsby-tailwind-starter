@@ -2,7 +2,6 @@
   "name": "gatsby-tailwind-starter",
   "version": "1.0.0",
   "description": "A minimal Gatsby starter with Tailwind CSS",
-  "bin": "./scaffold.js",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
