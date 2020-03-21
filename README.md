@@ -12,7 +12,7 @@ rm -rf .git
 
 - Open `package.json` and change the `name`, `description`, `keywords`, `repository` and `bugs` fields to your own values.
 
-- Open `gatsby-config.js` and change the `title` and `description` fields to your own values.
+- Open `gatsby-config.js` and change the `title`, `description` and `icon` fields to your own values.
 
 ```shell
 git init
