@@ -10,9 +10,19 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
-  "keywords": ["gatsby", "tailwind"],
+  "keywords": [
+    "gatsby",
+    "tailwind"
+  ],
   "author": "Bart Wijnants",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bartw/gatsby-tailwind-starter"
+  },
+  "bugs": {
+    "url": "https://github.com/bartw/gatsby-tailwind-starter/issues"
+  },
   "dependencies": {
     "gatsby": "^2.20.2",
     "gatsby-plugin-manifest": "^2.3.1",
