@@ -24,7 +24,7 @@ git add .
 git commit -m "initial commit"
 ```
 
-- Install and start your website
+- Install and start your website.
 
 nvm use
 npm install
