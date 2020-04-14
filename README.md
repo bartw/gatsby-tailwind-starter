@@ -12,7 +12,7 @@ cd my-project
 rm -rf .git
 ```
 
-- Open `package.json` and change the `name`, `description`, `keywords`, `repository` and `bugs` fields to your own values.
+- Open `package.json` and change the `name`, `description`, `keywords`, `author`, `repository` and `bugs` fields to your own values.
 
 - Open `gatsby-config.js` and change the `title`, `description` and `icon` fields to your own values.
 
