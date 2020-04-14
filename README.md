@@ -2,7 +2,20 @@
 
 A minimal Gatsby starter with Tailwind CSS
 
-## How to use
+## Quickstart
+
+Use the following npx script to jumpstart a project with gatsby-tailwind-starter:
+
+```shell
+npx https://github.com/bartw/karapu my-project
+cd my-project
+npm install
+npm start
+```
+
+## Slowstart
+
+Or do everything manually:
 
 - Clone this repo into your project folder and erase history.
 
